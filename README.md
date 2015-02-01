@@ -1,2 +1,2 @@
 # hello-puterfly
-My first repository for test.
+My first repository for testing.
